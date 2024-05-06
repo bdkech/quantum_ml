@@ -1,0 +1,17 @@
+h5py
+jupyterlab
+torch
+tensorflow
+qiskit
+cirq
+numpy
+scipy
+matplotlib
+ipython
+pandas
+sympy
+nose
+seaborn
+scikit-learn
+pylatexenc
+ipywidgets
