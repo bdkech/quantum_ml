@@ -15,3 +15,4 @@ seaborn
 scikit-learn
 pylatexenc
 ipywidgets
+qiskit_aer
